@@ -2,7 +2,7 @@
 console.log('Welcome to literate-octo-guide');
 
 // Initialize application
-function init() {
+function init() { // updated
     console.log('Application initialized');
 }
 
