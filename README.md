@@ -1,4 +1,4 @@
-# literate-octo-guide
+# literate-octo-guide // updated
 
 A literate octo guide project
 
